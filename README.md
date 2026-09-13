@@ -1,3 +1,16 @@
+# Multi-Platform-Service-Architecture
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://srinivasachivukula.github.io/Multi-Platform-Service-Architecture/)
+[![Open In Colab](https://img.shields.io/badge/Colab-PCA%20Gait%20Analysis-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/SrinivasaChivukula/Multi-Platform-Service-Architecture/blob/main/PCA_gait_analysis_results.ipynb)
+[![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)
+[![Android](https://img.shields.io/badge/Platform-Android%20Architecture-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+
+**Scalable Cross-Platform Service Integration & Biomechanical Dimensionality Reduction**
+
+🔗 **Interactive Architecture Blueprint & PCA Eigenspace Studio**: [https://srinivasachivukula.github.io/Multi-Platform-Service-Architecture/](https://srinivasachivukula.github.io/Multi-Platform-Service-Architecture/)
+
+---
+
 # GaitVision
 
 _2-D Gait Analysis for clinical use._
